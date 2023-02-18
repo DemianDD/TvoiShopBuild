@@ -1310,14 +1310,7 @@
           }
         }
       },
-      "Humanizer.Core/2.8.26": {
-        "runtime": {
-          "lib/netstandard2.0/Humanizer.dll": {
-            "assemblyVersion": "2.8.0.0",
-            "fileVersion": "2.8.26.1919"
-          }
-        }
-      },
+      "Humanizer.Core/2.8.26": {},
       "IdentityModel/5.1.0": {
         "dependencies": {
           "System.Text.Encodings.Web": "5.0.1",
@@ -1577,12 +1570,6 @@
         "dependencies": {
           "Humanizer.Core": "2.8.26",
           "Microsoft.EntityFrameworkCore.Relational": "6.0.10"
-        },
-        "runtime": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
-            "assemblyVersion": "6.0.10.0",
-            "fileVersion": "6.0.1022.47607"
-          }
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/6.0.10": {
