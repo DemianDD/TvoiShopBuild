@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.854e1914.css",
-    "main.js": "/static/js/main.a71f5bd5.js",
+    "main.css": "/static/css/main.1e72942c.css",
+    "main.js": "/static/js/main.b00c6f97.js",
     "index.html": "/index.html",
     "static/media/insta.svg": "/static/media/insta.c019492f90b22c2202703bb1b06dab27.svg",
     "static/media/cancel.svg": "/static/media/cancel.b8e065eae1e1852c29a3d8f41513f423.svg",
@@ -21,11 +21,11 @@
     "static/media/leftIcon.svg": "/static/media/leftIcon.39a57c91b7889d1289ac9ed8b4aff06a.svg",
     "static/media/expandMoreIcon.svg": "/static/media/expandMoreIcon.c06bcc8678a9cb59dcdd9d2e0f0c19bb.svg",
     "static/media/expandLessIcon.svg": "/static/media/expandLessIcon.4cb2c4f4c490935ddcaee4e7bdbd5bb3.svg",
-    "main.854e1914.css.map": "/static/css/main.854e1914.css.map",
-    "main.a71f5bd5.js.map": "/static/js/main.a71f5bd5.js.map"
+    "main.1e72942c.css.map": "/static/css/main.1e72942c.css.map",
+    "main.b00c6f97.js.map": "/static/js/main.b00c6f97.js.map"
   },
   "entrypoints": [
-    "static/css/main.854e1914.css",
-    "static/js/main.a71f5bd5.js"
+    "static/css/main.1e72942c.css",
+    "static/js/main.b00c6f97.js"
   ]
 }
