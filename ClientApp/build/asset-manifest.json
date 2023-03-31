@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.874e79f2.css",
-    "main.js": "/static/js/main.55a7c0b2.js",
+    "main.css": "/static/css/main.7db65fba.css",
+    "main.js": "/static/js/main.e7fd58ee.js",
     "index.html": "/index.html",
     "static/media/insta.svg": "/static/media/insta.c019492f90b22c2202703bb1b06dab27.svg",
     "static/media/cancel.svg": "/static/media/cancel.b8e065eae1e1852c29a3d8f41513f423.svg",
@@ -9,8 +9,6 @@
     "static/media/phone.svg": "/static/media/phone.c5b0e34f8a92f6c01c29ae3980870bda.svg",
     "static/media/blueCircle.svg": "/static/media/blueCircle.c3e6b8f1b7c13c9747261c49dd628a03.svg",
     "static/media/greenCircle.svg": "/static/media/greenCircle.209c829256cc3d9bf2dc7b917ab3a216.svg",
-    "static/media/redCircle.svg": "/static/media/redCircle.347e2509956528be5fe057988685cd82.svg",
-    "static/media/yellowCircle.svg": "/static/media/yellowCircle.0e04dac03db0dc656eb3efe5a6228249.svg",
     "static/media/menu.svg": "/static/media/menu.5d9155abb1a3141fd217f2c7fe09b0b7.svg",
     "static/media/telegram.svg": "/static/media/telegram.7c3c833741caeaa5fc2e1ccc40302943.svg",
     "static/media/cart.svg": "/static/media/cart.01fb18c27d34402090d2c5ae2d259b6f.svg",
@@ -21,11 +19,11 @@
     "static/media/leftIcon.svg": "/static/media/leftIcon.5ca0b0c480b6430ee6eadc4a2a321fce.svg",
     "static/media/expandMoreIcon.svg": "/static/media/expandMoreIcon.c06bcc8678a9cb59dcdd9d2e0f0c19bb.svg",
     "static/media/expandLessIcon.svg": "/static/media/expandLessIcon.4cb2c4f4c490935ddcaee4e7bdbd5bb3.svg",
-    "main.874e79f2.css.map": "/static/css/main.874e79f2.css.map",
-    "main.55a7c0b2.js.map": "/static/js/main.55a7c0b2.js.map"
+    "main.7db65fba.css.map": "/static/css/main.7db65fba.css.map",
+    "main.e7fd58ee.js.map": "/static/js/main.e7fd58ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.874e79f2.css",
-    "static/js/main.55a7c0b2.js"
+    "static/css/main.7db65fba.css",
+    "static/js/main.e7fd58ee.js"
   ]
 }
