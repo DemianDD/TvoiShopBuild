@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a829aa4c.css",
-    "main.js": "/static/js/main.1b0373ba.js",
+    "main.css": "/static/css/main.b1e99cf7.css",
+    "main.js": "/static/js/main.a452923d.js",
+    "static/media/Gilroy-ExtraBold.otf": "/static/media/Gilroy-ExtraBold.0094146a0505298ed06a.otf",
     "index.html": "/index.html",
     "static/media/arrowDown.svg": "/static/media/arrowDown.eaa1dccb1a6d2cdefea0f45ffb0ed723.svg",
     "static/media/arrowUp.svg": "/static/media/arrowUp.f8d2583bb32ec37ab11de26066fa5622.svg",
@@ -21,11 +22,11 @@
     "static/media/leftIcon.svg": "/static/media/leftIcon.5ca0b0c480b6430ee6eadc4a2a321fce.svg",
     "static/media/expandMoreIcon.svg": "/static/media/expandMoreIcon.11cd353ea4fd26f73b25964718192a8d.svg",
     "static/media/expandLessIcon.svg": "/static/media/expandLessIcon.25f9b9806a005e77386a1b0caa434699.svg",
-    "main.a829aa4c.css.map": "/static/css/main.a829aa4c.css.map",
-    "main.1b0373ba.js.map": "/static/js/main.1b0373ba.js.map"
+    "main.b1e99cf7.css.map": "/static/css/main.b1e99cf7.css.map",
+    "main.a452923d.js.map": "/static/js/main.a452923d.js.map"
   },
   "entrypoints": [
-    "static/css/main.a829aa4c.css",
-    "static/js/main.1b0373ba.js"
+    "static/css/main.b1e99cf7.css",
+    "static/js/main.a452923d.js"
   ]
 }
